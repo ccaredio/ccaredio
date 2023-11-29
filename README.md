@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christian Caredio. 
-- 👀 I’m interested in data analysis and the manipulation of data. Through my undergraduate and professional career in marine science, I have realized my passion lies within data analysis and I am committed to becoming a data analyst. 
-- 🌱 I have recently completed the Google Data Analytics Certification Program. I'm currently working on personal projects to expand my portfolio as well as applying to data analysis jobs to get started in the career that I have been drawn to.
-- 💞️ I’m looking to collaborate on anything that can help expand my skills and knowledge with data analysis.
+- 👀 I am a current data analyst with most of my role now consisting of the analytics engineering type building clean actionable data models within dbt to be stored in Snowflake and analyzed in Looker.  
+- 🌱 I successfully leveraged my scientific background in analyzing oceanographic data to transition full-time into the data world. I am currently learning more about data engineering best practices with the goal of moving more into the engineering aspect of data.
+- 💞️ I’m looking to collaborate on anything that can help expand my skills and knowledge within the data field.
 - 📫 How to reach me: christiancaredio@gmail.com
 
 <!---
